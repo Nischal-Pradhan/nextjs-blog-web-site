@@ -1,2 +1,1 @@
-# nischalpradhan-nextjs-blog.com
-BLOG
+## readme
